@@ -1,0 +1,5 @@
+# Fichiers système macOS
+.DS_Store
+
+# Dépendances (réinstallées automatiquement par Vercel)
+node_modules/
